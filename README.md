@@ -1,2 +1,2 @@
 # eleraning-site
-this is eleraning
+this is elearning site
